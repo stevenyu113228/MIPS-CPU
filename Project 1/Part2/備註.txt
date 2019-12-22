@@ -1,0 +1,5 @@
+根據題目說明Part2中的Mult完整模組
+名稱為 CompMult.v
+
+題目說明最後一頁寫的名稱為CompMul.v
+本專案以前者CompMult.v為準
